@@ -1,5 +1,5 @@
 {
-  "server": false,
+  "server": true,
   "message": "Server sedang maintenance, harap kembali nanti.",
   "latest_version": "1.2.5"
 }
